@@ -17,7 +17,7 @@ UPDATE, DELETE) on a single `books` table, using SQLite.
 | 7. Order and limit | `7-order_by_price_asc.sql`, `7-order_by_year_desc.sql`, `7-limit_results.sql`, `7-order_and_limit.sql` |
 | 8. Aggregates | `8-count_books.sql`, `8-average_price.sql`, `8-max_stock.sql`, `8-total_stock.sql`, `8-min_price.sql` |
 | 9. GROUP BY | `9-count_by_genre.sql`, `9-average_price_by_genre.sql`, `9-total_stock_by_genre.sql`, `9-count_by_author.sql` |
-| 10. Integrative | `10-select_tech_books.sql` |
+| 10. Integrative | `10-select_tech_books.sql`, `10-increase_stock.sql`, `10-delete_zero_stock.sql`, `10-cheapest_available.sql`, `10-stock_by_genre.sql`, `10-average_price_by_genre.sql` |
 
 ## Usage
 
